@@ -11,12 +11,12 @@ Este repositório é destinado a armazenar os arquivos de projetos e desafios pr
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Logo do Bootcamp">
 </p>
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e](https://web.dio.me/home)) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e](https://web.dio.me/track/coding-the-future-sysvision-data-analytics))
-
 
 ## Trilha
 **Bootcamp:** Data Analytics com Power BI
+
+[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://https://web.dio.me/home) 
+[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/track/coding-the-future-sysvision-data-analytics)
 
 ## Descrição do Desafio
 O desafio consiste em criar um Relatório de Vendas no Power BI, considerando os produtos e segmentos. O objetivo é replicar os gráficos desenvolvidos durante as aulas, utilizando um dataset disponibilizado pelo instrutor no GitHub.
