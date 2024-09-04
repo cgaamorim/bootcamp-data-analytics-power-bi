@@ -17,6 +17,8 @@ Além de replicar os gráficos, o desafio também inclui a criação de novos vi
 ## Objetivos
 - Replicar gráficos de vendas considerando produtos e segmentos.
 - Criar novos gráficos de pizza e de mapa.
+- Botões para navegabilidade.
+- Segmentadores de dados.
 - Publicar o projeto no GitHub como um exemplo de relatório de vendas no Power BI.
 
 ## Estrutura do Repositório
