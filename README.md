@@ -1,10 +1,17 @@
-# Desafio de Projeto: Analisando dados de um Dashboard de Vendas no Power BI
+<!--# Desafio de Projeto: Analisando dados de um Dashboard de Vendas no Power BI-->
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Desafio de Projeto: Analisando dados de um Dashboard de Vendas no Power BI</span>
+</h1>
+
+Este repositório é destinado a armazenar os arquivos de projetos e desafios propostos pela plataforma [DIO.me](https://www.dio.me) (Digital Innovation One).
 
 <p align="center">
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Logo do Bootcamp">
 </p>
 
-Este repositório é destinado a armazenar os arquivos de projetos e desafios propostos pela plataforma [DIO.me](https://www.dio.me) (Digital Innovation One).
+
 
 ## Trilha
 **Bootcamp:** Data Analytics com Power BI
@@ -29,8 +36,11 @@ Além de replicar os gráficos, o desafio também inclui a criação de novos vi
 
 
 ## Dificuldades Encontradas
-Durante o desenvolvimento do projeto, uma das dificuldades encontradas foi a limitação do Power BI em relação ao Mapa do Azure. Infelizmente, o Mapa do Azure não oferece suporte para publicação na web, como o Azure Analysis Services ou o SQL Server Analysis Services. Além disso, não é possível publicar o mapa na web para acesso público, o que restringe a disseminação dos dashboards que utilizam esse recurso. Fonte para mais informações: https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-get-started#considerations-and-limitations
-
+Durante o desenvolvimento do projeto, uma das dificuldades encontradas foi a limitação do Power BI em relação ao Mapa do Azure, bem como, Gráfico Árvore Hierárquica. Infelizmente, o Mapa do Azure não oferece suporte para publicação na web, como o Azure Analysis Services ou o SQL Server Analysis Services. Além disso, não é possível publicar o mapa na web para acesso público, o que restringe a disseminação dos dashboards que utilizam esse recurso. 
+Fonte para mais informações: 
+- https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-get-started#considerations-and-limitations
+- https://learn.microsoft.com/pt-br/power-bi/visuals/power-bi-visualization-decomposition-tree#considerations-and-limitations
+  
 <!--
 ## Como Utilizar
 1. Clone este repositório em sua máquina local.
