@@ -2,10 +2,10 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Desafio de Projeto: Analisando dados de um Dashboard de Vendas no Power BI</span>
+    <span> Projetos Desenvolvidos no Bootcamp em Data Analytics com Power BI</span>
 </h1>
 
-Este repositório é destinado a armazenar os arquivos de projetos e desafios propostos pela plataforma [DIO.me](https://www.dio.me) (Digital Innovation One).
+Este repositório é destinado a armazenar os arquivos de projetos e desafios propostos pela plataforma [DIO.me](https://www.dio.me) (Digital Innovation One) em parceria com a Sysvision.
 
 <p align="center">
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Logo do Bootcamp">
@@ -14,6 +14,22 @@ Este repositório é destinado a armazenar os arquivos de projetos e desafios pr
 
 ## Trilha
 **Bootcamp:** Data Analytics com Power BI
+
+<!--# Data-Analytics-com-Power-BI-->
+<!--Repositório para entrega dos desafios de projeto do curso Data Analytics com Power BI oferecido pela DIO  em parceria com a Sysvision.-->
+<!--<p align="center">-->
+<p>
+<a href="https://www.dio.me/bootcamp/coding-the-future-sysvision-data-analytics" target="_blank" rel="noreferrer">
+  <img src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png" alt="Data Analytics com Power BI" width="120" height="120"/>
+
+  
+<!-- ## Tecnologias utilizadas
+<p align="left"> 
+ <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="PowerBI" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> &nbsp;
+-->
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://https://web.dio.me/home) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/track/coding-the-future-sysvision-data-analytics)
