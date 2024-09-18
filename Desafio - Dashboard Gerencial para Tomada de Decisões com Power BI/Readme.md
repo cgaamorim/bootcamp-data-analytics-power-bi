@@ -19,6 +19,7 @@ Foi levado em consideração os seguintes conceitos:
 * Botões de navegabilidade
 
 ## Resultado
+![Dashboard Gerencial](Desafio - Dasboard Gerencial para Tomada de Decisões com Power BI.pdf)
 
 ## Tecnologias utilizadas
 <p align="left"> 
