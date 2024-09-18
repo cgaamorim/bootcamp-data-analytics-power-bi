@@ -10,9 +10,9 @@ Aplicar os conceitos de _Modelagem Dimensional, especificamente o Star Schema_, 
 ## Modelagem
 
 Diagrama Star Schema após as técnicas de transformação de dados com Power BI:
-![Modelagem Star Schema](der_universidade.png)
+![Modelagem Star Schema](modelagem_dados_dax.png)
 
-	* Fato: As vendas foram definidas como o foco principal da análise, e a tabela `F_Vendas` foi criada para armazenar os dados de fato.
-	* Dimensões: Foram criadas diversas tabelas de dimensão para fornecer contexto aos dados de fato: `D_descontos`; `D_detalhes`; `D_Produtos`; `D_Produtos_Detalhes` e `D_calendar`.
-  *	Relacionamentos: Os relacionamentos entre as tabelas foram estabelecidos com base na cardinalidade, formando um esquema estrela.
-  *	Utilização de DAX: A linguagem DAX foi utilizada para criar a tabela de dimensão temporal e definir hierarquias e granularidades.
+ *	**Fato**: As vendas foram definidas como o foco principal da análise, e a tabela `F_Vendas` foi criada para armazenar os dados de fato.
+ *	**Dimensões**: Foram criadas diversas tabelas de dimensão para fornecer contexto aos dados de fato: `D_descontos`; `D_detalhes`; `D_Produtos`; `D_Produtos_Detalhes` e `D_calendar`.
+  *	**Relacionamentos**: Os relacionamentos entre as tabelas foram estabelecidos com base na cardinalidade, formando um esquema estrela.
+  *	**Utilização de DAX**: A linguagem DAX foi utilizada para criar a tabela de dimensão temporal e definir hierarquias e granularidades.
