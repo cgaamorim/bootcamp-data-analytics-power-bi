@@ -18,8 +18,10 @@ Foi levado em consideração os seguintes conceitos:
 * Segmentação dos dados
 * Botões de navegabilidade
 
-## Resultado
-![Dashboard Gerencial](Desafio - Dasboard Gerencial para Tomada de Decisões com Power BI.pdf)
+<!--## Resultado
+Para visualizar o relatório completo, clique aqui:
+[Relatório Final] (https://github.com/cgaamorim/bootcamp-data-analytics-power-bi/blob/dc6c3e0787479da5baa36615c223c0b5226f9169/Desafio%20-%20Dashboard%20Gerencial%20para%20Tomada%20de%20Decis%C3%B5es%20com%20Power%20BI/Desafio%20-%20Dasboard%20Gerencial%20para%20Tomada%20de%20Decis%C3%B5es%20com%20Power%20BI.pdf)
+-->
 
 ## Tecnologias utilizadas
 <p align="left"> 
